@@ -73,4 +73,4 @@ def main():
     return out
 
 
-print(main())
+main()
